@@ -32,10 +32,10 @@ It also changes color while u hover your mouse on it.🎨💡
 
 ## 🙋‍♀️ Developed By
 
-**Vaishnavi Lalan**  
+**ManjuPrasad**  
 💼 Software Development Intern at Prodigy Infotech 
-🔗 [LinkedIn Profile](www.linkedin.com/in/vaishnavi-lalan-270419310)
-🔗 [GitHub Profile](https://github.com/VaishnaviLalan106)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/manju-prasad-86b729377?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+🔗 [GitHub Profile](https://github.com/ManjusPrasad)
 
 ---
 
